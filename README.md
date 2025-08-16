@@ -1,12 +1,22 @@
-# 👋 Hi, I'm Gul – Experienced Senior Software Developer
+<!-- GitHub Profile README for iamgul -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/iamgul/)
+<h1 align="center">Hi, I'm Gul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Senior Software Developer | Microservices Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamgul/">
+    <img src="https://img.shields.io/badge/LinkedIn-iamgul-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:iamgulmd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-iamgulmd@gmail.com-green?logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-With over **7 years** of expertise in the IT industry, I specialize in designing and building highly scalable microservices architectures, ensuring robust integrations via REST APIs for web, mobile, and third-party services. My passion lies in crafting effective software solutions that drive business value through performance, reliability, and modularity.
+With **7+ years** in IT, I architect, design & build **highly scalable microservices** and robust REST APIs for web, mobile, and third-party integrations. My focus is effective, maintainable software that delivers business impact.
 
 ---
 
@@ -27,39 +37,41 @@ With over **7 years** of expertise in the IT industry, I specialize in designing
 
 ---
 
-## 🚀 Favorite Projects
+## 📜 Certifications
 
-### 1. Scalable Microservices Architecture
+- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> Generative AI Applications Professional Certificate (AWS) - 2025  
+- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> AI Fundamentals & the Cloud (AWS) - 2025  
+- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> AWS Services for AI Solutions (AWS) - 2025  
+- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> Bringing Ideas to Life Using AI (AWS) - 2025  
+
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="18" alt="Java"/> Java SE 8 Programmer I (Udemy) - 2020  
+- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="18" alt="Google Cloud"/> Assoc. Cloud Engineer (Google) - 2024
+
+---
+
+## 🏆 Featured Project
+
+### Scalable Microservices Architecture
 
 - **Central Note (Log) System:**  
-  Designed a unified logging solution that tracks user interactions across microservices, enabling merchant backend teams to analyze and understand reasons for specific system actions in real-time.
-
-- **High-Performance Multithreaded Services:**  
-  Engineered concurrent processing modules to maximize system throughput and responsiveness.
-
-- **Modular & Maintainable Microservices:**  
-  Utilized Java, Spring Boot, and Play Framework, leveraging design patterns for a modular, extensible architecture.
-
-- **Optimized REST API Integration:**  
-  Delivered APIs with efficient HTTP/JSON handling, supporting seamless integration with mobile/web apps and third-party partners.
-
-- **Asynchronous Communication:**  
-  Enhanced system performance and reliability through Apache Kafka-based event-driven messaging.
-
----
-
-## 🌐 Social
-
-- [LinkedIn: iamgul](https://www.linkedin.com/in/iamgul/)
-
----
+  Logs user interactions from various microservices. Empowers merchant backend teams to analyze actions in real-time.
+- **Concurrency:**  
+  Built multithreaded services for improved throughput & responsiveness.
+- **Modularity:**  
+  Used Java, Spring Boot, Play Framework, and design patterns to ensure modular architecture.
+- **API Integration:**  
+  Delivered seamless REST APIs for mobile/web/partner integration.
+- **Event-Driven:**  
+  Implemented asynchronous communication via Apache Kafka.
 
 ## 🎉 Fun Facts & Hobbies
 
-- 🏓 Love playing table tennis.
-- 🚴‍♂️ Enjoy traveling with friends on bike tours.
-- 🏊‍♂️ Aspiring to learn swimming and driving a 4-wheeler.
+- 🏓 Table Tennis lover
+- 🏍️ Adventurous bike tours with friends
+- 🏊‍♂️ Aspiring swimmer & 🚗 4-wheeler driver
 
 ---
 
-> **Let's connect and build impactful software together!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=00BFFF&center=true&vCenter=true&lines=Let's+build+impactful+software+together!;Always+learning+%26+exploring+new+tech!" alt="Typing SVG" />
+</p>
