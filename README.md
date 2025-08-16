@@ -39,10 +39,10 @@ With **7+ years** in IT, I architect, design & build **highly scalable microserv
 
 ## 📜 Certifications
 
-- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> Generative AI Applications Professional Certificate (AWS) - 2025  
-- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> AI Fundamentals & the Cloud (AWS) - 2025  
-- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> AWS Services for AI Solutions (AWS) - 2025  
-- <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" width="18" alt="AI"/> Bringing Ideas to Life Using AI (AWS) - 2025  
+-  🧠 Generative AI Applications Professional Certificate (AWS) - 2025  
+-  🧠 AI Fundamentals & the Cloud (AWS) - 2025  
+-  🧠 AWS Services for AI Solutions (AWS) - 2025  
+-  🧠 Bringing Ideas to Life Using AI (AWS) - 2025  
 
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="18" alt="Java"/> Java SE 8 Programmer I (Udemy) - 2020  
 - <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="18" alt="Google Cloud"/> Assoc. Cloud Engineer (Google) - 2024
@@ -64,11 +64,20 @@ With **7+ years** in IT, I architect, design & build **highly scalable microserv
 - **Event-Driven:**  
   Implemented asynchronous communication via Apache Kafka.
 
+---
+
 ## 🎉 Fun Facts & Hobbies
 
 - 🏓 Table Tennis lover
 - 🏍️ Adventurous bike tours with friends
 - 🏊‍♂️ Aspiring swimmer & 🚗 4-wheeler driver
+
+---
+
+## My Day-To-Day Learnings
+
+- learnt about creating the README.md file in GitHub to showcase your profile [Aug-16-2025]
+
 
 ---
 
