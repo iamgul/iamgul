@@ -1,5 +1,13 @@
 <!-- GitHub Profile README for iamgul -->
 
+<p align="center">
+  <img src="./assets/styles/banner.svg" alt="Profile Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/styles/divider.svg" alt="Divider" width="90%" />
+</p>
+
 <h1 align="center">Hi, I'm Gul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Senior Software Developer | Microservices Enthusiast | Problem Solver</h3>
 
@@ -82,4 +90,9 @@ With **7+ years** in IT, I architect, design & build **highly scalable microserv
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=3000&color=00BFFF&center=true&vCenter=true&lines=Let's+build+impactful+software+together!;Always+learning+%26+exploring+new+tech!" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="./assets/styles/divider.svg" alt="Divider" width="90%" />
 </p>

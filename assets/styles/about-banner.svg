@@ -1,0 +1,10 @@
+<svg viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+    <defs>
+        <linearGradient id="aboutbg" x1="0" y1="0" x2="1" y2="1">
+            <stop stop-color="#7b61ff" offset="0"/>
+            <stop stop-color="#00bfff" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect width="600" height="80" rx="16" fill="url(#aboutbg)" />
+    <text x="30" y="50" font-size="38" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" fill="#fff">About Me</text>
+</svg>
