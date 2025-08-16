@@ -40,12 +40,11 @@ With **7+ years** in IT, I architect, design & build **highly scalable microserv
 ## 📜 Certifications
 
 -  🧠 Generative AI Applications Professional Certificate (AWS) - 2025  
--  🧠 AI Fundamentals & the Cloud (AWS) - 2025  
--  🧠 AWS Services for AI Solutions (AWS) - 2025  
--  🧠 Bringing Ideas to Life Using AI (AWS) - 2025  
-
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="18" alt="Java"/> Java SE 8 Programmer I (Udemy) - 2020  
-- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="18" alt="Google Cloud"/> Assoc. Cloud Engineer (Google) - 2024
+-  🧠 AI Fundamentals & the Cloud (AWS) - 2025 [Verify (Coursera)](https://coursera.org/verify/Z63RVB8NRZ6M) • [PDF](./assets/certifications/coursera-ai-fundamentals-and-the-cloud.pdf)
+-  🧠 AWS Services for AI Solutions (AWS) - 2025 [Verify (Coursera)](https://coursera.org/verify/U75JC5C2ETM8) • [PDF](./assets/certifications/coursera-aws-services-for-ai-solutions.pdf)
+-  🧠 Bringing Ideas to Life Using AI (AWS) - 2025
+-  ☕️ Java SE 8 Programmer I (Udemy) - 2022 [Verify (Udemy)](https://www.udemy.com/certificate/UC-63e0a549-f4c4-46d0-82f0-aff9e2cda792/) • [PDF](./assets/certifications/udemy-oracle-java-8-ertification.pdf)
+-  🎖️ Assoc. Cloud Engineer (Google) - 2024 [Verify (Credly)](https://www.credly.com/badges/193d451a-f9dd-499a-8814-9dbf83dfcac3) • [PDF](./assets/certifications/google-cloud-associate.pdf)
 
 ---
 
