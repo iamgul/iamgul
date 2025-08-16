@@ -84,6 +84,7 @@ With **7+ years** in IT, I architect, design & build **highly scalable microserv
 ## My Day-To-Day Learnings
 
 - learnt about creating the README.md file in GitHub to showcase your profile [Aug-16-2025]
+- Code Blocks in Google Docs • [Link](./assets/learnings/code-blocks-in-google-docs.md)
 
 
 ---
